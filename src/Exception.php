@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger;
+namespace yasinstc\pdfmerger;
 
 /**
  * Base exception

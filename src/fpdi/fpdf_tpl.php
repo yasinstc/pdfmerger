@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger\fpdi;
+namespace yasinstc\pdfmerger\fpdi;
 //
 //  FPDF_TPL - Version 1.2.3
 //
@@ -19,7 +19,7 @@ namespace erc\pdfmerger\fpdi;
 //  limitations under the License.
 //
 
-use erc\pdfmerger\fpdf\fpdf;
+use yasinstc\pdfmerger\fpdf\fpdf;
 
 class fpdf_tpl extends fpdf {
 

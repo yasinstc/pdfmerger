@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger\fpdi;
+namespace yasinstc\pdfmerger\fpdi;
 //
 //  FPDI - Version 1.4.4
 //
@@ -19,8 +19,8 @@ namespace erc\pdfmerger\fpdi;
 //  limitations under the License.
 //
 
-use erc\pdfmerger\fpdi\filters\FilterLZW_FPDI;
-use erc\pdfmerger\fpdi\filters\FilterASCII85_FPDI;
+use yasinstc\pdfmerger\fpdi\filters\FilterLZW_FPDI;
+use yasinstc\pdfmerger\fpdi\filters\FilterASCII85_FPDI;
 
 class fpdi_pdf_parser extends pdf_parser {
 

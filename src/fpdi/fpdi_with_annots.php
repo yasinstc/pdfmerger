@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger\fpdi;
+namespace yasinstc\pdfmerger\fpdi;
 
 // FPDI extension that preserves hyperlinks when copying PDF pages.
 //

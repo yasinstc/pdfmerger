@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger\fpdf;
+namespace yasinstc\pdfmerger\fpdf;
 
 /*******************************************************************************
 * FPDF                                                                         *

@@ -30,7 +30,7 @@ Usage
 -----
 
 ```php
-use erc\pdfmerger\PDFMerger;
+use yasinstc\pdfmerger\PDFMerger;
 
 $pdf = new PDFMerger;
 try {

@@ -1,6 +1,6 @@
 <?php
 
-namespace erc\pdfmerger\fpdi\filters;
+namespace yasinstc\pdfmerger\fpdi\filters;
 //
 //  FPDI - Version 1.4.4
 //
