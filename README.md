@@ -24,7 +24,7 @@ Installation
 ------------
 Install using [composer](http://getcomposer.org/).
 
-    composer require erc/pdfmerger
+    composer require yasinstc/pdfmerger
 
 Usage
 -----
